@@ -1,6 +1,6 @@
 import random
 
-num = int(input("Введите какое колличчество чисел должно быть в списке: "))
+num = int(input("Введите какое количество чисел должно быть в списке: "))
 llist = []
 amount = 0
 for i in range(num):
